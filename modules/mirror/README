@@ -1,0 +1,8 @@
+class mirror -
+  Example Usage:
+
+  class { 'mirror':
+    mirror => 'cat',
+  }
+
+  WARNING: WILL PURGE YOUR CURRENT /etc/apt/sources.list
